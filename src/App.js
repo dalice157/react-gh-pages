@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DA 的佈置練習
+          DA 的佈置練習 +1
         </p>
         <a
           className="App-link"
